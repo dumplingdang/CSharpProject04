@@ -1,0 +1,6 @@
+C:\Users\dengj\OneDrive\Documents\BCIT\COMP 3602 - C#\FinaExam - Copy\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\dengj\OneDrive\Documents\BCIT\COMP 3602 - C#\FinaExam - Copy\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\dengj\OneDrive\Documents\BCIT\COMP 3602 - C#\FinaExam - Copy\ClassLibrary\obj\Debug\CSharpProject04Data.csproj.AssemblyReference.cache
+C:\Users\dengj\OneDrive\Documents\BCIT\COMP 3602 - C#\FinaExam - Copy\ClassLibrary\obj\Debug\CSharpProject04Data.csproj.CoreCompileInputs.cache
+C:\Users\dengj\OneDrive\Documents\BCIT\COMP 3602 - C#\FinaExam - Copy\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\dengj\OneDrive\Documents\BCIT\COMP 3602 - C#\FinaExam - Copy\ClassLibrary\obj\Debug\ClassLibrary.pdb

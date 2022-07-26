@@ -1,0 +1,13 @@
+C:\Users\dengj\OneDrive\Documents\BCIT\COMP 3602 - C#\FinaExam - Copy\FinaExam\bin\Debug\ClassLibrary.dll
+C:\Users\dengj\OneDrive\Documents\BCIT\COMP 3602 - C#\FinaExam - Copy\FinaExam\bin\Debug\ClassLibrary.pdb
+C:\Users\dengj\OneDrive\Documents\BCIT\COMP 3602 - C#\FinaExam - Copy\FinaExam\obj\Debug\CSharpProject04.csproj.AssemblyReference.cache
+C:\Users\dengj\OneDrive\Documents\BCIT\COMP 3602 - C#\FinaExam - Copy\FinaExam\obj\Debug\CSharpProject04.csproj.GenerateResource.cache
+C:\Users\dengj\OneDrive\Documents\BCIT\COMP 3602 - C#\FinaExam - Copy\FinaExam\obj\Debug\CSharpProject04.csproj.CoreCompileInputs.cache
+C:\Users\dengj\OneDrive\Documents\BCIT\COMP 3602 - C#\FinaExam - Copy\FinaExam\obj\Debug\CSharpProject04.csproj.CopyComplete
+C:\Users\dengj\OneDrive\Documents\BCIT\COMP 3602 - C#\FinaExam - Copy\FinaExam\obj\Debug\CSharpProject04.Properties.Resources.resources
+C:\Users\dengj\OneDrive\Documents\BCIT\COMP 3602 - C#\FinaExam - Copy\FinaExam\obj\Debug\CSharpProject04.MainForm.resources
+C:\Users\dengj\OneDrive\Documents\BCIT\COMP 3602 - C#\FinaExam - Copy\FinaExam\bin\Debug\CSharpProject04.exe.config
+C:\Users\dengj\OneDrive\Documents\BCIT\COMP 3602 - C#\FinaExam - Copy\FinaExam\bin\Debug\CSharpProject04.exe
+C:\Users\dengj\OneDrive\Documents\BCIT\COMP 3602 - C#\FinaExam - Copy\FinaExam\bin\Debug\CSharpProject04.pdb
+C:\Users\dengj\OneDrive\Documents\BCIT\COMP 3602 - C#\FinaExam - Copy\FinaExam\obj\Debug\CSharpProject04.exe
+C:\Users\dengj\OneDrive\Documents\BCIT\COMP 3602 - C#\FinaExam - Copy\FinaExam\obj\Debug\CSharpProject04.pdb
