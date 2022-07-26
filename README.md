@@ -9,7 +9,7 @@
 
 - To display error messages when any changes of product details do not follow business rules
 
-![image](https://user-images.githubusercontent.com/59108372/180943480-a1e84f00-4eb4-4553-b17f-1e8afe571d4d.png)
+![image](https://user-images.githubusercontent.com/59108372/180944837-84d36d40-1316-4a91-b548-9697d4df585c.png)
 
 - To automatically update summary data when details of a selected product are changed
 
