@@ -1,5 +1,5 @@
 # CSharpProject04
-An app which includes the following functions:
+## An app which includes the following functions:
 - To display a list of products
 - To display a selected product
 - To change and save details of a selected products
